@@ -10,6 +10,8 @@ If the sum of the three parameters (as described above) is > 22, return 'Sabbati
 else return 'Back to your desk, boy.'.
 */
 
+
+
 function sabb(s, val, happiness) {
     let total = 0;
     for (let letter of s) {
